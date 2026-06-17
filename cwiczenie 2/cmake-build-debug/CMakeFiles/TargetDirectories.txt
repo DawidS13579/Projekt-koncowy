@@ -1,0 +1,3 @@
+/Users/dawidsichniewicz/CLionProjects/cwiczenie 2/cmake-build-debug/CMakeFiles/cwiczenie_2.dir
+/Users/dawidsichniewicz/CLionProjects/cwiczenie 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dawidsichniewicz/CLionProjects/cwiczenie 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/dawidsichniewicz/CLionProjects/Projekt koncowy 2/cmake-build-debug/CMakeFiles/Projekt_koncowy_2.dir
+/Users/dawidsichniewicz/CLionProjects/Projekt koncowy 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dawidsichniewicz/CLionProjects/Projekt koncowy 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
